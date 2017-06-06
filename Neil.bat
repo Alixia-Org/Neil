@@ -8,6 +8,12 @@ goto :EOF
 
 <!-- :: HTML Start :: -->
 
+<HTA:APPLICATION 
+	ID="neil"
+	APPLICATIONNAME="Neil"
+	SCROLL="auto"
+	SINGLEINSTANCE="yes"
+>
 
 <html>
 	<head>
